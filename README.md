@@ -70,43 +70,43 @@ The table below lists industry-leading commercial SaaS virtual agent suites, **s
 
 Below is the curated collection of self-hosted, sovereign, and developer-centric open-source virtual agent frameworks, **sorted in descending order by GitHub stargazer count**. Each repository badge links directly to its live GitHub stargazers page.
 
-- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   *All-in-one open-source LLM application development platform and agent orchestrator.* Combines visual conversational flow design, RAG pipelines, multi-model support, tool execution, and out-of-the-box embeddable web chat widgets for production-grade AI virtual assistants.
 
-- **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+- **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
   *User-friendly, highly extensible self-hosted AI interface and assistant platform.* Provides complete Ollama and OpenAI API compatibility, built-in RAG document interrogation, agent pipelines, web search integration, voice call mode, and fine-grained role-based access control (RBAC).
 
-- **[Lobe Chat](https://github.com/lobehub/lobe-chat)** [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)  
+- **[Lobe Chat](https://github.com/lobehub/lobe-chat)** [![GitHub_Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)  
   *Modern open-source conversational AI framework and virtual agent workstation.* Features multi-modal support (vision, speech-to-text, text-to-speech), dynamic plugin marketplace, multi-agent management, artifact generation, and support for all major commercial and local LLM providers.
 
-- **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+- **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
   *Microsoft's pioneering framework for agentic AI and multi-agent conversations.* Enables building next-generation virtual agent systems where specialized autonomous agents converse, reason cooperatively, execute code, and integrate human feedback to solve complex enterprise workflows.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   *Lean multi-agent orchestration framework for collaborative virtual agents.* Allows developers to define autonomous agents with distinct personas, tools, memory, and objectives, coordinating structured sequential and hierarchical delegations for business processes.
 
-- **[Flowise](https://github.com/flowiseai/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social&color=white)](https://github.com/flowiseai/Flowise/stargazers)  
+- **[Flowise](https://github.com/flowiseai/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social&color=white)](https://github.com/flowiseai/Flowise/stargazers)  
   *Visual drag-and-drop canvas for building customized conversational agents and RAG pipelines.* Powered by LangChain and LlamaIndex, Flowise enables zero-code and low-code assembly of multi-agent assistants, memory stores, and API integrations with instant webhook endpoints.
 
-- **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
+- **[LibreChat](https://github.com/danny-avila/LibreChat)** [![GitHub_Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
   *Enterprise-ready open-source AI conversational platform.* Delivers support for custom AI Agents, Model Context Protocol (MCP), multi-model selection (Claude, GPT, Gemini, Mistral, Ollama), file search, code execution, multi-user moderation, and secure Docker/Kubernetes deployment.
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   *Open-source omnichannel customer support platform (MIT License).* Serves as the ultimate human-in-the-loop and handoff gateway for virtual agents; integrates live web chat, WhatsApp, Twitter, and email with webhook-driven bot connectivity and agent assignment logic.
 
-- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
   *Industry-standard conversational AI framework (Python) for mission-critical enterprise assistants.* Combines CALM (Conversational AI with Language Models) for generative dialogue with deterministic business logic flows, automated conversation repair, and enterprise data privacy boundaries.
 
-- **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
   *Developer-centric chatbot platform and agent hub.* Features visual flow editing, native intent classification, slot tagging, autonomous reasoning nodes, multi-channel connectors (Slack, Teams, Telegram, WhatsApp), and hybrid cloud/on-prem deployment options.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   *Visual conversational form and lead-generation chatbot builder.* Offers 30+ interactive block types, native OpenAI/Anthropic blocks, conditional logic branching, and customizable embeddable web chat widgets with zero per-conversation pricing limits.
 
-- **[Vocode Core](https://github.com/vocodedev/vocode-core)** [![GitHub stars](https://img.shields.io/github/stars/vocodedev/vocode-core?style=social&color=white)](https://github.com/vocodedev/vocode-core/stargazers)  
+- **[Vocode Core](https://github.com/vocodedev/vocode-core)** [![GitHub_Stars](https://img.shields.io/github/stars/vocodedev/vocode-core?style=social&color=white)](https://github.com/vocodedev/vocode-core/stargazers)  
   *Open-source Python library for building real-time voice-based virtual agents.* Handles low-latency audio streaming, telephony bridging (Twilio/Vonage), turn-taking management, speech-to-text (Deepgram/Whisper), and voice synthesis (ElevenLabs/PlayHT).
 
-- **[Tock](https://github.com/theopenconversationkit/tock)** [![GitHub stars](https://img.shields.io/github/stars/theopenconversationkit/tock?style=social&color=white)](https://github.com/theopenconversationkit/tock/stargazers)  
+- **[Tock](https://github.com/theopenconversationkit/tock)** [![GitHub_Stars](https://img.shields.io/github/stars/theopenconversationkit/tock?style=social&color=white)](https://github.com/theopenconversationkit/tock/stargazers)  
   *Open-source conversational AI toolkit built with Kotlin.* Maintained by The Open Conversation Kit, offering end-to-end bot lifecycle management, multi-lingual NLU, complex story graphs, Docker Compose deployment, and React/Vue front-end embedding toolkits.
 
 ---
@@ -161,7 +161,7 @@ We welcome community contributions from developers, product managers, and enterp
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feat/add-new-virtual-agent`).
 3. 📝 **Add or update entries in `README.md`** following the exact existing tabular or bulleted schema.
-4. 🔗 **Ensure accurate links, star badges, and factual pricing/free-tier documentation**.
+4. 🔗 **Ensure accurate links, Stars_Badges, and factual pricing/free-tier documentation**.
 5. 🚀 **Submit a Pull Request** with a concise summary of the addition or revision.
 
 ---
